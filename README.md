@@ -1,4 +1,4 @@
-![](images/bannerGithub.svg)
+![](images/bannerGithub.png)
 <h1 align='center'> Hello there! 👋</h1>
 <p>&nbsp;</p>
 
